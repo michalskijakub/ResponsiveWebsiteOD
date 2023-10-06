@@ -88,3 +88,18 @@ body {
   border: 4px solid #000;
   box-sizing: border-box;
 }
+
+.circle {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  justify-content: center;
+  background-color: rgb(182, 224, 210);
+  align-items: center;
+  position: absolute;
+  border-radius: 50%;
+  top: 30%;
+  left: 48%;
+  border: 4px solid #000;
+  box-sizing: border-box;
+}
