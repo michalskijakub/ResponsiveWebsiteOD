@@ -66,3 +66,25 @@ body {
   border: 4px solid #000;
   box-sizing: border-box;
 }
+
+.rec1 {
+  width: 130px;
+  height: 20px;
+  background-color: rgb(17, 17, 233);
+  position: absolute;
+  top: 30%;
+  left: 28%;
+  border: 4px solid #000;
+  box-sizing: border-box;
+}
+
+.rec2 {
+  width: 130px;
+  height: 20px;
+  background-color: rgb(17, 17, 233);
+  position: absolute;
+  top: 40%;
+  left: 28%;
+  border: 4px solid #000;
+  box-sizing: border-box;
+}
