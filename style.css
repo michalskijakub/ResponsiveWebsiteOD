@@ -139,6 +139,28 @@ body {
   .rectangle {
     padding: 10px;
   }
+
+  .rec1 {
+    position: absolute;
+    top: 80%;
+    left: 1%;
+  }
+
+  .rec2 {
+    position: absolute;
+    top: 90%;
+    left: 1%;
+  }
+
+  .circle {
+    position: absolute;
+    top: 80%;
+    left: 30%;
+  }
+
+  .bed {
+    background-color: rgb(126, 59, 59);
+  }
 }
 
 @media screen and (min-width: 901px) {
