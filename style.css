@@ -114,3 +114,12 @@ body {
   border: 4px solid #000;
   box-sizing: border-box;
 }
+
+.text {
+  font-size: 26px;
+  font-weight: bold;
+  position: absolute;
+  top: 2%;
+  left: 50%;
+  transform: translateX(-50%);
+}
