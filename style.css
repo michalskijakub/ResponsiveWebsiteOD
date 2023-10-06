@@ -29,8 +29,10 @@ body {
   background: linear-gradient(
     to bottom,
     rgb(5, 62, 33) 0px,
-    rgb(5, 62, 33) 50px,
-    rgb(66, 185, 33) 50px,
+    rgb(5, 62, 33) 48px,
+    rgb(0, 0, 0) 48px,
+    rgb(0, 0, 0) 52px,
+    rgb(66, 185, 33) 52px,
     rgb(66, 185, 33) 100%
   );
   width: 100%;
