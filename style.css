@@ -131,7 +131,50 @@ body {
   .rectangle {
     padding: 10px;
   }
+  .square {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 140px;
+    left: 30px;
+  }
+  .square2 {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 70px;
+    left: 100px;
+  }
+
+  .rec1 {
+    position: absolute;
+    top: 250px;
+    left: 1%;
+  }
+
+  .rec2 {
+    position: absolute;
+    top: 290px;
+    left: 1%;
+  }
+
+  .circle {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 240px;
+    left: 150px;
+  }
+
+  .bed {
+    top: 325px;
+    left: 10%;
+    background-color: rgb(17, 17, 233);
+    width: 200px;
+    height: 340px;
+  }
 }
+
 @media screen and (min-width: 583px) and (max-width: 900px) {
   .container {
     padding: 20px;
